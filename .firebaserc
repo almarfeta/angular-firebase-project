@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "angular-firebase-project-16d5a": {
+      "hosting": {
+        "angular-firebase-project": [
+          "angular-firebase-project-16d5a"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "angular-firebase-project-16d5a"
+  }
+}
